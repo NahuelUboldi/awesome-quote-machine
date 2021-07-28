@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/awesome-quote-machine/static/css/main.a617e044.chunk.css",
+    "main.js": "/awesome-quote-machine/static/js/main.ff16a837.chunk.js",
+    "main.js.map": "/awesome-quote-machine/static/js/main.ff16a837.chunk.js.map",
+    "runtime-main.js": "/awesome-quote-machine/static/js/runtime-main.77645d83.js",
+    "runtime-main.js.map": "/awesome-quote-machine/static/js/runtime-main.77645d83.js.map",
+    "static/js/2.f0ac805f.chunk.js": "/awesome-quote-machine/static/js/2.f0ac805f.chunk.js",
+    "static/js/2.f0ac805f.chunk.js.map": "/awesome-quote-machine/static/js/2.f0ac805f.chunk.js.map",
+    "index.html": "/awesome-quote-machine/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/awesome-quote-machine/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.f0ac805f.chunk.js.LICENSE.txt": "/awesome-quote-machine/static/js/2.f0ac805f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77645d83.js",
+    "static/js/2.f0ac805f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ff16a837.chunk.js"
+  ]
+}
